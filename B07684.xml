@@ -1,0 +1,636 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great frost. cold doings in London, except it be at the lotterie.  With newes out of the country.  A familiar talke betwene a country-man and a citizen touching this terrible frost and the great lotterie, and the effects of them.  the description of the Thames frozen over..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07684</idno>
+            <idno type="STC">STC 11403</idno>
+            <idno type="STC">ESTC S92602</idno>
+            <idno type="EEBO-CITATION">72799120</idno>
+            <idno type="OCLC">ocm 72799120</idno>
+            <idno type="VID">184044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2222:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great frost. cold doings in London, except it be at the lotterie.  With newes out of the country.  A familiar talke betwene a country-man and a citizen touching this terrible frost and the great lotterie, and the effects of them.  the description of the Thames frozen over..</title>
+               </titleStmt>
+               <extent>[31] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Gosson, and are to be sold at his shop at London-Bridge.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1608.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Headpieces; tailpieces; initials.</note>
+                  <note>Woodcut illustration on t.p.</note>
+                  <note>Signatures: A-C⁴ D².</note>
+                  <note>Imperfect: Imprint cropped ; pages have print show-through (some text is refurbished in STC 26091).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frost --  England --  Early works to 1800.</term>
+               <term>Freezes (Meteorology) --  England --  Early works to 1800.</term>
+               <term>Weather --  Early works to 1800.</term>
+               <term>Lotteries --  England --  Early works to 1800.</term>
+               <term>Thames River (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184044:1"/>
+            <pb facs="tcp:184044:2" rendition="simple:additions"/>
+            <pb facs="tcp:184044:2"/>
+            <p>THE GREAT FROST.</p>
+            <p>Cold doings in London, except it be at the LOTTERIE.</p>
+            <p>With Newes out of the Country.</p>
+            <p>
+               <hi>A familiar talke betwene a Country-man and</hi> a Citizen touching this terrible Froſt and the great Lotterie, and the effects of them.</p>
+            <p>The Deſcription of the Thames frozen ouer.</p>
+            <figure>
+               <figDesc>Londoners upon the frozen Thames</figDesc>
+            </figure>
+            <p>Printed at London for <hi>Henry Goſson,</hi> and are to be ſold at the ſigne of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:184044:3"/>
+            <head>
+               <g ref="char:leaf">❧</g> 
+               <hi>A Table of the moſt</hi> ſpe<g ref="char:EOLhyphen"/>ciall matters of note contained in this ſhort Diſcourſe.</head>
+            <list>
+               <item>1. A deſcription of the Thames being fro<g ref="char:EOLhyphen"/>zen ouer.</item>
+               <item>2. The daungers that hath happened to ſome perſons paſsing vpon the Thames.</item>
+               <item>3. The harmes that this Froſt hath done to the Citie.</item>
+               <item>4. The miſerie that the Country people are driuen into by the meanes of this Froſt.</item>
+               <item>5. The Froſts in other Kings times compa<g ref="char:EOLhyphen"/>pared vvith this.</item>
+               <item>6. A deſcription of the Lottery.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:184044:3"/>
+            <head>THE GREAT FROST. Cold doings in London. <hi>A Dialogue.</hi>
+            </head>
+            <list>
+               <head>The ſpeakers.</head>
+               <item>
+                  <hi>A Citizen.</hi>
+               </item>
+               <item>
+                  <hi>A Country-man.</hi>
+               </item>
+            </list>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>
+                  <seg rend="decorInit">O</seg>Ld Father, you are moſt hartily welcome to <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Countryman.</speaker>
+               <p>Sir, I giue you moſt kinde and heartie thankes: but you muſt par<g ref="char:EOLhyphen"/>don me; I am an olde man, &amp; haue thoſe defects that go a long with olde age; I haue both bad eyes to diſcerne my friends and a weake memorie to keepe their names in minde: I haue quite loſt the remembrance of you.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Nay Father, I am a méere ſtranger to you. But ſéeing white haires to couer your head as well as mine owne, I make bold to reach out my hand to you: there is honeſtie in your verie lookes, and euery honeſt man is worthy, and ought to be taken into acquaintance.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:184044:4"/>
+               <speaker>Coun.</speaker>
+               <p>I am beholden to you for this curteſſe: you Ci<g ref="char:EOLhyphen"/>tizens are ciuill, and wee poore country fellowes are plaine, but albeit I walke in ruſſet and courſe gray, I haue a true heart. What is your pleaſure Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>If your haſte be no greater then mine (for bleſ<g ref="char:EOLhyphen"/>ſed be God, we haue now too many idle howres againſt our will.) I would gladly confer with you of the ſtate of the Country, and if I can delight you with any Citie newes, you ſhall haue my boſome opened fréely.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>The Plough-mans hands Sir are now held in his pocket as well as the Shop-kéepers: I haue as little to doe as you, and therefore an houres that ſhall pleaſe me well: wee olde men are old Chronicles, and when our tongues goe, they are not clockes to tell one<g ref="char:EOLhyphen"/>ly the time preſent, but large, bookes vnclaſped, and our ſpéeches, like leaues turnd ouer and ouer, diſcouer won<g ref="char:EOLhyphen"/>ders that are long ſince paſt.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I am glad that I haue met with an olde man that hath not ſtood ſtill in his life (like a poole) but like a Riuer hath runne through the world to get experience. But I pray tell me, of what Country are you?</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Of Rippon in Yorkeſhire.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>And (if it he not too much beyond the rule of good manners.) let me be bold to inquire what drew you, dwelling ſo farre off, to trauell to London?</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Marry Sir I will tell you, euen that drew me to London, which drawes you out of your houſes: that which makes you cry out in London, <hi>Wee haue cold doings,</hi> and to leaue your ſhops to catch you heate in the ſtréetes, nay to leaue your new beautifull walks in Moore-fields, (for thoſe I haue ſéene at my entring into the Citie) and to make newer and larger walkes (though not ſo ſafe) vpon a field of glaſſe as it were. That ſlippery world which I beheld (as I remember) in the fift yeare of the raigne of Quéene <hi>Elizabeth,</hi> (or I am ſure I am not much wide) doe I come thus far to
+<pb facs="tcp:184044:4"/> behold againe in the fift yeare of our good King <hi>Iames,</hi> &amp; that is (in a few cold words) thethames frozen ouer.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yea Father, and frozen ouer and ouer.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>I haue but two eares Sir (if I had more I were a monſter) but thoſe two eares bring me home a thou<g ref="char:EOLhyphen"/>ſand tales in leſſe then ſeuen daies. Some I harken to, ſome I ſhake my head at, ſome I ſmile at, ſome I think true, ſome I know falſe. But becauſe this world is like our Millers in the Country, knauiſh and hard to be tru<g ref="char:EOLhyphen"/>ſted, though mine eares be mine owne and good, yet I had rather giue credite to mine eyes: although they ſée but badly, yet I know they will not coſen me, they haue not theſe foureſcore yeares, and that is the reaſon I haue made them my guides now in this iourney, and they ſhall bee my witneſſes when I get home againe, and ſit, as I hope I ſhall, turning a crab by the fire<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) of what wonders I haue béene a beholder.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>In good ſadnes Father I am proud, that ſuch a heape of yeares lying on your back, you ſtoup no lower for them; I come ſhort of you by more than twenty, and me thinkes I am both more vnluſty, &amp; looke more aged.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Oh Sir, riots, riots, ſurfets, ſurfets ſtick white haires vpon young mens chinnes, when ſparing diets hold colour. Your cramd Capons féede you fat here in London, but our béefe and bacon féedes vs ſtrong in the Country: long ſtéepes and late watchings, dry vp your bloods, &amp; wither your chéeks; we go to bed with the lambe, and riſe with the larke, which makes our bloods healthfull: you are ſtill ſending to the Apothecaries, and ſtill crying out; to fetch Maiſter Doctortor to mee,, but our Pottecaries ſhoppe is our garden full of pot-hearbes, and our Doctor is, a good cloue of garlicke. I am as luſtie and ſound at heart (I praiſe my God) as my yoake of bullockes that are the ſeruants to my Plough.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yet I wonder that hauing no more ſand in the
+<pb facs="tcp:184044:5"/> the glaſſe of your life (for yong men may reckon years, but we old men muſt coumpt vpon minutes,) I wonder I ſay how you durſt ſet forth, and how you could come thus farre.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>How I durſt ſet forth? If King <hi>Harry</hi> were now aliue againe, I durſt and would (as old and ſtiffe as I am, goe with him to <hi>Bullen.</hi> We haue trées in our Towne that beare fruit in winter: I am one of thoſe winter plums, &amp; though I taſte a little ſower, yet I am ſound at hart, &amp; ſhal not rot yet I hope, for all this froſt.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>It were pitty ſo reuerend an Oake ſhould ſo ſoone be felled downe, you may ſtand and grow yet ma<g ref="char:EOLhyphen"/>ny a yeare.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Yes ſir, downward, downward you and I muſt grow (like eares of corne when they be ripe.) But I beſéech you tell me; Is that goodly Riuer of yours, I call it yours, becauſe you are a Citizen, (and that Riuer is the Nurſe that giues milke &amp; hony to your citie: But is that Lady of freſh waters all couered ouer with ice?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>All ouer I aſſure you Father: the Froſt hath made a floore vpon it, which ſhewes like gray Marble, roughly hewen out: it is a very pauement of glaſſe, but that it is more ſtrong. The Thames now lies in, or ra<g ref="char:EOLhyphen"/>ther is turned (as ſome thinke) bankerupt, and dares not ſhew her head; for all the water of it floates vp and downe now like a ſpring-tide in a celler.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>God helpe the poore Fiſhes; it is a hard world with them, when their houſes are taken ouer their heads, they vſe not to lye vnder ſuch thicke roofes. But I pray ſir, are all the arches of your famous London Bridge ſo damd vp with yce, that the flakes ſhew like ſo many frozen gates, ſhut vp cloſe, and that nothing paſſes through them, nay, that a man cannot looke through them as he had wont?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>No ſuch matter: the Thames with her ebbing &amp; flowing hath at ſundry times broght downe hay, win<g ref="char:EOLhyphen"/>tercaſtles
+<pb facs="tcp:184044:5"/> of yee, which iuſtling againſt the arches of the Bridge, and ſtriueing (like an vnruly Drunkard at a gate of the Citie in the night time) to paſſe through, haue there bin ſtayed and lodged ſo long, till they haue lyen in heapes and got one vpon another, but not ſo am<g ref="char:EOLhyphen"/>bitiouſly as you ſpeake of them.</p>
+            </sp>
+            <sp>
+               <speaker>Countri.</speaker>
+               <p>And doe not the Weſterne-Barges come downe vpon certaine artificiall pullies and engines, ſliding on the yce, to ſerue your Citie with fewell.</p>
+            </sp>
+            <sp>
+               <speaker>Citti.</speaker>
+               <p>That were a wonder worth ſéeing, and more ſtrange than the rowing ouer ſtéeples by lande in a wherry; no I aſſure you, theſe ſtories ſhall neuer ſtand in our Chronicles: there is no ſuch motion.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>But I hope Sir you &amp; I may drink a pinte of ſack in the Tauern that runs vpon whéels on the riuer, aſwel as a thouſand haue done beſides, may we not? the motio<g ref="char:cmbAbbrStroke">̄</g> of that wine-celler <hi>I</hi> am ſure is to be ſéen, is it not?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>The water-celler is, but the wine-cellers haue too good doings on the land, to leaue that, and to ſet vp Tauernes on the Riuer; you know more in the Coun<g ref="char:EOLhyphen"/>try I perceiue then we doe in the Citie of theſe matters.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Nay Sir, we heare more, but know leſſe: we heare the lyes, and you know the trueth: why law you now, had not I made this iourney to <hi>London,</hi> I had died in miſ-beliefe: mine eare might thus haue made me to haue béene called olde doting foole: for I giuing cre<g ref="char:EOLhyphen"/>dite to report, ſhould haue vttered theſe fables for trueths; and I being an olde man, ſhould haue béene beléeued, (for a white head ought not to hold a blacke tongue;) and ſo my ſonnes and daughters (taking a fathers word) might peraduenture forty yeares hence, haue béene called clownes, for iuſtifying a lye ſo mon<g ref="char:EOLhyphen"/>ſtrous and incredible.</p>
+            </sp>
+            <sp>
+               <speaker>Citti.</speaker>
+               <p>Barre all theſe rumors hereafter out of your eares, for they are falſe and deceitful, &amp; flie vp &amp; downe like Lapwings, their in times being there it is, when it is not.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:184044:6"/>
+               <speaker>Coun</speaker>
+               <p>You Sir are a man, that by your head and beard (as well as my ſelfe) ſhould bee one of <hi>Times</hi> Sonnes, and ſhould therefore loue his daughter <hi>Truth.</hi> Make me ſo much beholding to you, as to receiue from you the right Picture of all this your Water-workes; and how they began, and how they haue growne, and in what faſhion continued?</p>
+            </sp>
+            <sp>
+               <speaker>Citi.</speaker>
+               <p>
+                  <note place="margin">The Thames de<g ref="char:EOLhyphen"/>ſcribed as it was Frozen.</note> Moſt gladly will I ſatiſfie your requeſt. You ſhall vnderſtand therefore that the <hi>Thames</hi> began to put on his <hi>Freeze-coote</hi> (which yet he weares) about the weeke before <hi>Chriſtmas,</hi> and hath kept it on till now this latter end of <hi>Ianuarij,</hi> howe long time ſoeuer be<g ref="char:EOLhyphen"/>ſides to come, none but God knowes.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Did it neuer thawe in thus many weekes?</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Onely thrée dayes, or foure at the moſt, and that but weakely to diſolue ſo great a hardneſſe. The Cakes of Iſe (great quantitie, and in great numbers) were made &amp; baked cold in the mouth of winter, at the leaſt a fortnight or thrée wéekes, before they were cru<g ref="char:EOLhyphen"/>ſted &amp; creme<g ref="char:cmbAbbrStroke">̄</g>ted togither; but after they once ioynd their ſtre<g ref="char:cmbAbbrStroke">̄</g>gths in one, their backsheld out &amp; cold not be broke<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>We may make this good vſe euen out of this watry and tranſformed element; that <hi>London</hi> vphold<g ref="char:EOLhyphen"/>eth a ſtate; and againe, that violent factions and com<g ref="char:EOLhyphen"/>binations (albeit of the baſeſt perſons) in a Common<g ref="char:EOLhyphen"/>wealth, are not eaſily diſolued, if once they bee ſuffered to grow vp to a head. On Sir I pray.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>This cold breakfaſt being giuen to the Citie, &amp; the <hi>Thames</hi> growing more &amp; more hard-harted, wylde youthes and boyes were the firſt Marchant-venturers that ſet out to diſcouer theſe cold Ilandes of Iſe vpon the Riuer. <note place="margin">Firſt going ouer the Thames on the Ice a<g ref="char:EOLhyphen"/>bout Cold-Harbour.</note> And the firſt path that was beaten forth, to paſſe to the <hi>Banck-ſide</hi> (with out going ouer <hi>Bridge,</hi> or by Boate) was about <hi>Cold-Harbour,</hi> and in thoſe places neere the <hi>Bridge;</hi> for the Tydes ſtill plying vp the flakes of Iſe one vpon another in thoſe places of the <hi>Thames.</hi>
+                  <pb facs="tcp:184044:6"/> it was held the beſt and the ſafeſt trauelling into our new found Fréezeland, by thoſe créekes.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>But this onſet proſpering, and they comming offwell, hartened others to come on Sir, did it not?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>No ſouldiers more deſperate to a ſkirmiſh: ſpeak it Father from my mouth for an aſſured trueth; that there was as it were an artificiall bridge of yce rea<g ref="char:EOLhyphen"/>ching from one ſide of the Riuer to the other, vppon which infinite numbers of people paſſed too and fro, iu<g ref="char:EOLhyphen"/>ſtling one an other in crowdes, when the current of the water ran (in ſight) more than halfe the breadth of the Thames, on eyther ſide of y<hi rend="sup">e</hi> ycecy bridge, the bridge it ſelfe being not aboue fiue yardes broad, (if ſo much.)</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>It was ſtrange! But it was ſaid of your Lon<g ref="char:EOLhyphen"/>doners, that when you ſtriue to be kind, you turne into prodigals; when you are cowards, you are arrant cow<g ref="char:EOLhyphen"/>ards, and when you are bold, you are too deſperately venturous.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>It appeares ſo by this froſt: for no danger could nip their bloods with feare; but ouer ſome we<g ref="char:cmbAbbrStroke">̄</g>t in ſhoals when thouſands ſtood gazing on and ſwore, they would not follow their ſteppes in that waterie wilderneſſe for many thouſands of pounds: nay, euen many of thoſe that were the diſcouerers, and did firſt venture ouer, would neuer vndertake the ſecond voyage, but prote<g ref="char:EOLhyphen"/>ſted when they were halfe way, they would haue loſt much to haue bin againe on ſhore.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>It is moſt likely, for perills that are not com<g ref="char:EOLhyphen"/>mon make men foole-hardy, but being once taſted, they tremble to come néere them.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>You ſay true Father; but the feare of this ſhip<g ref="char:EOLhyphen"/>wracke, and of theſe rockes, grew eueryday leſſe and leſſe, as the yce increaſed in hardneſſe, ſo mens hearts increaſed in hardineſſe: ſo that at the length, (the froſt knitting all his ſinewes together, and the inconſtant water (by that meanes) being of a floating element,
+<pb facs="tcp:184044:7"/> changed into a firme ground as it were) <note place="margin">What num<g ref="char:EOLhyphen"/>bers of peo<g ref="char:EOLhyphen"/>ple wal<g ref="char:EOLhyphen"/>ked on the Thames.</note> both men, women, and children walked ouer, and vp and downe in ſuch companies, that I verily beléeue, and I dare al<g ref="char:EOLhyphen"/>moſt ſweare it, the one halfe (if not thrée parts) of the people in the Citie, haue béene ſéene going on the Thames. The Riuer ſhewed not now (neither ſhewes it yet) like a Riuer, but like a field where Archers ſhoote at prickes, whilſt others play at foote-ball. It is a place of maiſterie, where ſome wreſtle, and ſome runne, and he that does beſt is apteſt to take a fall. It is an Alley to walke vpon without dread, albeit vnder it be moſt aſſured daunger. The Gentlewomen that trembles to paſſe ouer a Bridge in the field, doth here walke bold<g ref="char:EOLhyphen"/>ly: the Citizens wife that lookes pale when ſhe ſits in a boate for feare of drowning, thinkes that here ſhee treades as ſafe now as in her Parlour: Of all ages, of all ſexes, of all profeſſions this is the common path: it is the roade way betwéene London and Weſtmin<g ref="char:EOLhyphen"/>ſter, and betwéene South-warke and London. Would you drinke a cuppe of ſacke Father? there ſtand ſome with Rundlets to fill it out.</p>
+            </sp>
+            <sp>
+               <speaker>Countri.</speaker>
+               <p>Ah ha, thats the Tauerne then is tal<g ref="char:EOLhyphen"/>ked on.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>
+                  <note place="margin">Beere, Ale, wine, victu<g ref="char:EOLhyphen"/>alls, and fiers on the Thames.</note> Thirſt you for Béere, Ale, Vſquibath, &amp;c. or for victualls? there you may buy it, becauſe you may tell an other day how you dined vppon the Thames. Are you colde with going ouer? you ſhall ere you come to the midſt of the Riuer, ſpie ſome ready with pannes of coales to warme your fingers. If you want fruite after you haue dined, there ſtands Coſtermon<g ref="char:EOLhyphen"/>gers to ſerue you at your call. And thus doe people leaue their houſes and the ſtréetes, turning the goodli<g ref="char:EOLhyphen"/>eſt Riuer in the whole Kingdome, into the broadeſt-ſtréete to walke in.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>But tell mee I pray Sir, if all the merchants that vndertake this voyage to theſe your narrow ſeas,
+<pb facs="tcp:184044:7"/> are none vndone? doe none of your freſh-water ſouldi<g ref="char:EOLhyphen"/>ers miſcarry, &amp; drop downe in theſe ſlipperie Marſhes?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes Sir, I haue heard of many, and haue béene an eye witneſſe of ſome: of all which, I will be ſparing in report, being rather willing to be reprehended for tel<g ref="char:EOLhyphen"/>ling too little, then for diſcouering too much.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>It is a modeſtie well becomes any man, al<g ref="char:EOLhyphen"/>beit nothing but trueth ſit vpon his tongue. But I pray ſithence you cracke the ſhell, let vs ſée what kernell there is within it: ſithence you haue beſtowed the ſwéet, let me taſte the ſower, let your newes be as Country-folkes bringing fruit to your markets, the bad and the good togither: ſay, haue none gone weſtward for ſmelts (as our prouerbiall phraſe is?)</p>
+            </sp>
+            <sp>
+               <speaker>Citti.</speaker>
+               <p>
+                  <note place="margin">The harmes that haue fallen on ſe<g ref="char:EOLhyphen"/>uerall per<g ref="char:EOLhyphen"/>ſons going on the Thames.</note> Yes, it hath beene a kinde of battaile for the time, for ſome haue fallen in vp to the knées, others to the middle, others to the arme-pittes, yea and ſome haue béene ducked ouer head and eares, yet haue craw<g ref="char:EOLhyphen"/>led out like drowned Rats, whiles others haue ſuncke to the bottome that neuer roſe againe to the top: they had a cold bed to lye in. Amongſt many other miſfor<g ref="char:EOLhyphen"/>tunes that are to bee pittied, this is one; A couple of friendes ſhooting on the Thames with birding-péeces, it happened they ſtrooke a Sea-pie, or ſome other fowle, they both ran to catch it, the one ſtumbled forward, his head ſlipt into a déepe hole, and there was hee drownd: the other (in his haſte) ſlipt backward, &amp; by that meanes ſaued his life. A poore fellow likewiſe hauing heated his body with drinke, thought belike to coole it on the water: but comming to walke on the Ice, his head was too heauy for his héeles, ſo that downe he fell, and there preſently died.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Let his fall giue others warning how to ſtand. Your Citie cannot chooſe but bee much damnified by this ſtrange congealing of the Riuer.</p>
+            </sp>
+            <sp>
+               <speaker>Citti.</speaker>
+               <p>Exceeding much (Father) ſtraungers may
+<pb facs="tcp:184044:8"/> geſſe at our harmes; yet none can giue the full num<g ref="char:EOLhyphen"/>ber of them but wee that are the inhabitants: <note place="margin">The hurt that the Ci<g ref="char:EOLhyphen"/>tie hath re<g ref="char:EOLhyphen"/>ceiued by this Froſt.</note> for the Citie by this meanes is cut off from all comerce: Shop-kéepers may ſit and aſke what doe you lacke, when the paſſengers may very well reply, what doe you lacke your ſelues: they may ſit and ſtare on men, but not ſit and ſell: it was (before) called The dead Terme, and now may wee call this, The dead Vacation, The frozen Vacation, The cold Vacation. If it be a Gen<g ref="char:EOLhyphen"/>tlemans life to liue idlely, and doe nothing, how ma<g ref="char:EOLhyphen"/>ny poore Artificers and Tradeſ-men haue béene made Gentlemen then by this Froſt? For a number of Oc<g ref="char:EOLhyphen"/>cupations (like the flakes of yce that lye in the Thames) are by this malice of Winter, trod cleane vnder foote, and will not yet bee able to ſtirre. Alas poore Watermen, you haue had cold chéere at this ban<g ref="char:EOLhyphen"/>quet: you that liue altogether vpon water, can now ſcarce get water to your hands: it is a hard thing now for you to earne your bread with the ſweate of your browes.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>This beating may make them wiſe, the want that this hard ſeaſon driues them into, may teach them to play the Ants, and in Sommer to make a prouiſion againſt the wrath of Winter. There is no miſchiefe borne alone I know; calamities commonly are (by birth) twinnes: me thinks therefore, y<hi rend="sup">t</hi> this drying vp of the waters, ſhould be a deuourer vp of wood: this colde Ague of the earth muſt needes haue warmth to helpe it<g ref="char:punc">▪</g> that warmth muſt come from fier, and that fier cannot be had without coſt: how then I pray you in this ſo ge<g ref="char:EOLhyphen"/>nerall an affliction, did poore people ſhift for fewell to comfort them?</p>
+            </sp>
+            <sp>
+               <speaker>Citti.</speaker>
+               <p>
+                  <note place="margin">The want of fire.</note> Their care for fier was as great as for foode: nay, to want it was a worſe torment then to bee with<g ref="char:EOLhyphen"/>out meate: the belly was now pinched to haue the bo<g ref="char:EOLhyphen"/>dy warmed: and had not the Prouident Fathers of
+<pb facs="tcp:184044:8"/> this Citie (carefully, charitably, and out of a good and godly zeale) diſperſed a reliefe to the poore, in ſeuerall partes and places about the outer bounds of the Citie, where pouertie moſt inhabiteth) by ſtoring them before hand with Seacoale and other fiering at a reaſonable rate, I verily perſwade my ſelfe, that the vncon<g ref="char:EOLhyphen"/>ſcionable and vnmercifull raiſing of the prices of few<g ref="char:EOLhyphen"/>ell by Chandlers, Wood-mongers, &amp;c. (who now meant to lay the poore on the Racke) would haue béene the death of many a wretched creature through the want of ſuccour.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Not vnlikely Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>For neither could coale be brought vp the Ri<g ref="char:EOLhyphen"/>uer, neither could wood be ſent downe. The Weſterne Barges might now wrap vp their ſmoakie Sayles, for albeit they had neuer ſo loftie a gale, their voyage was ſpoyld, the windes was with them, but the tide was cleane againſt them. And not onely hath this froſt nipt away thoſe comforts that ſhould reuiue the out<g ref="char:EOLhyphen"/>ward parts of the body, but thoſe alſo that ſhould giue ſtrength and life to the inward. <note place="margin">Darth of victualls.</note> For you of the Coun<g ref="char:EOLhyphen"/>try being not able to trauel to the Citie with victualls, the price of victuall muſt of neceſſity be enhaunced, and victuall itſelfe brought into a ſcarcitie. And thus haue I giuen you (according to your requeſt) a true picture of our Thames frozen ouer, and withall haue drawne in as liuely colours as I can (to my ſkill) as it were in a little Table, all the miſeries, miſchiefes, and inconue<g ref="char:EOLhyphen"/>niences, which this hard time hath throwne vpon our Citie.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Sir, you haue ſatiſfied me to the full, and haue giuen vnto me ſo good a taſte of your loue, that if I ſhould liue double the yeares that are alreadie ſcored on my head, I cannot chooſe but die indebted to your kindneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Not ſo Father, for you ſhall if you pleaſe come
+<pb facs="tcp:184044:9"/> out of my debt preſently, and your payment ſhallbe in the ſelft-ſame coyne, that you receiued of me, (that is to ſay wordes.)</p>
+            </sp>
+            <sp>
+               <speaker>Countriman.</speaker>
+               <p>I am glad Sir, you will take a poore country-mans worde for ſo round a ſumme as I ac<g ref="char:EOLhyphen"/>knowledge is owing to you: you are a mercifull Creditor; GOD ſend mee allwayes to deale with ſuch Chapmen. But how will you ſet downe my payments?</p>
+            </sp>
+            <sp>
+               <speaker>Citi.</speaker>
+               <p>Mary thus Father: As I haue diſcouered vn<g ref="char:EOLhyphen"/>to you, what colde doings wee haue had (during this Froſt) in the Citie, ſo I pray let me vnderſtand from you, what kinde of worlde you haue liued in in the Country.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <note place="margin">Newes out of the Country.</note> The worlde with vs of the Country, runnes vpon the old rotten whéeles: for all the Northern cloth that is wouen in our Country, will ſcarce make a Gowne to keepe Charitie warme, ſhe goes ſo a cold. Rich men had neuer more money, and Couetouſneſſe had neuer leſſe pittie: there was neuer in any age more mony ſtirring, nor neuer more ſtir to gette mony. Far<g ref="char:EOLunhyphen"/>mers are now ſlaues to racking yong prodigall la<g ref="char:cmbAbbrStroke">̄</g>dlords, thoſe Landlords, are more ſeruile ſlaues to their owne Riots and Luxurie. But theſe are the common diſea<g ref="char:EOLhyphen"/>ſes of euery Kingdome and therefore are but common newes. The tunes of the Nightingale are ſtale in the midle of Sommer, becauſe we heare them at the com<g ref="char:EOLhyphen"/>ming in of the Spring, and ſo theſe harſh notes which are ſung euerie day in euerie Countrie, do (be cuſtome) grow not to be regarded. But your deſire Sir is, to know how we ſpend the daies of this our Frozen age in the Country.</p>
+            </sp>
+            <sp>
+               <speaker>Cittizen.</speaker>
+               <p>That I would heare indéede Fa<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Beléeue mee Sir, as wickedly you muſt thinke as you can heare in your Citie. It goes as
+<pb facs="tcp:184044:9"/> hard with vs as it doeth with you. <note place="margin">The miſe<g ref="char:EOLhyphen"/>ries that Country people feele by this froſt</note> The ſame colde hand of Winter is thruſt into our boſomes, the ſame ſharpe ayre ſtrikes woundes into our bodies: the ſame Sunne ſhines vppon vs, but the ſame Sunne doeth not heate vs no more then it doeth you. The poore Plough-mans children ſit crying and blowing their nayles, as lamentably as the children and ſer<g ref="char:EOLhyphen"/>uants of your poore Artificers. Hunger pinches their chéekes as deepe into the fleſh, as it doeth into yours here. You cry out here, you are vndone for coale, and wee complaine, wee ſhall dye for want of Wood. All your care is to prouide for your Wiues, children and ſeruants, in this time of ſadneſſe: but wée goe beyond you in cares; not onely our wiues, our children, and houſhold ſeruants, are vnto vs a cauſe of ſorrowe, but wée greeue as much to be<g ref="char:EOLhyphen"/>holde the miſerie of our poore Cattell (in this fro<g ref="char:EOLhyphen"/>zen-hearted ſeaſon) as it doeth to looke vppon our owne affliction. Our beaſtes are our faithfull ſer<g ref="char:EOLhyphen"/>uants, and doe their labour truely when wee ſet them to it, they are our Nurſes that giue vs milke, they are our guides in our iourneyes, they are our partners, and helpe to enrich our ſtate; yea, they are the verie vp-holders of a poore Farmers landes and liuings. Alas then, what Maiſter that loues his ſeruant as he ought, but would almoſt breake his owne heart-ſtringes with fighing, to ſée theſe pine and mourne as they doe? The ground is bare, and not worth a poore handfull of graſſe. The earth ſéemes barren, and beares nothing, or if ſhee doeth, moſt vnnaturally ſhe kills it preſently, or ſuffers it through cold to periſh. By which meanes the luſty horſe abates his fleſh, and hangs the head, féeling his ſtrength goe from him: the Oxe ſtands bellowing: the ragged Shéepe bleeting: the poore Lambe ſhiuering and ſtar<g ref="char:EOLhyphen"/>uing to death.</p>
+               <pb facs="tcp:184044:10"/>
+               <p>The poore Cottager that hath but a Cowe to liue vp<g ref="char:EOLhyphen"/>on, muſt feed vpon hungry meales (God knows) when the beaſt her ſelfe hath but a bare Commons. He that is not able to bid all his Cattle home, and to feaſt them with Fodder out of his Barnes, will ſcarce haue Cat<g ref="char:EOLhyphen"/>tell at the end of Sommer to fetch home his Harueſt. Which charge of feeding ſo many beaſtly mouthes, is able to eate vp a Country-mans eſtate, if his proui<g ref="char:EOLhyphen"/>dence before time hath not bin the greater to meet and preuent ſuch ſtormes. Of neceſſity our Sheep Oxen &amp;c. muſt be in danger of famiſhing, (hauing nothing but what our old grandam the earth will alowe them to liue vpon) of neceſſitie muſt they pyne, ſcithence all the fruits that had wont to ſpring out of her fertile womb, are now nipt in their birth, and likely neuer to proſper. And to proue that the Ground hath her very heart (as it were) broken, and that ſhe hath not liuely ſap enough in her vaines left as yet to quicken her, and to raiſe her vp to ſtrength: behold, this one infallible token. The Leeke, whoſe courage hath euer binne ſo vndaunted, that he hath borne vp his luſtie head in all ſtormes; and could neuer be compelled to ſhrinke, for Hayle, Snow, Froſtes, nor ſhowres; is nowe by the violence and cruelty of this Weather, beaten into the earth, being rotted, dead, diſgraced and trode vpon.</p>
+               <p>And thus (Sir) if wordes may bee taken for cur<g ref="char:EOLhyphen"/>rant payment (to a Creditor ſo worthy as your ſelfe) haue I tendred ſome part of my loue in requitall of yours. You gaue vnto mee a Mappe of your Citie as it ſtandes nowe in the Froſt, and I beſtowed vppon you a Moddell of the Country, which I pray receiue with as friendly a hand, as that is which of<g ref="char:EOLhyphen"/>fers it.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>I doe, with millions of thankes. The ſtorie which you told (albeit it yet makes my hart bleede to think vpon the calamities of my poore Country-men)
+<pb facs="tcp:184044:10"/> yet was it vttered with ſo graue a iudgement, and in a time ſo well befitting your age, that I kept mine eares open, and my lippes locked vp; for I was loth to interrupt you, till all was told: wherein you ſhew your ſelfe to bee a care<g ref="char:EOLhyphen"/>full and honeſt debter, in diſcharging your bond all at one ſumme, when you might haue done it in ſeuerall payments. But I pray you Father, what is your opinion of this ſtrange Winter? I call you Father, albeit my owne head be whitened by old age, as well as yours: and bee not an<g ref="char:EOLhyphen"/>gry that I doe ſo, it is an honourable title due vnto your yéeres: for as thoſe that are young men to me, beſtow that dignitie vpon my ſiluer haires, (and I am proud to take it) ſo would I not haue you diſdayne that attribute from my mouth, (that am a young man to you) ſithence I doe it out of loue and the reuerence I beare to my Elders. Tell mee therefore, I pray, your iudgement, of this Froſt, and what (in the ſchoole of your experience) you haue read, or can remember, may be the effects, which it may produce, or which (of conſequence) are likely to follow vpon it.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>
+                  <note place="margin">The dan<g ref="char:EOLhyphen"/>gers that a thaw is like to bring with it.</note> I ſhall doe my beſt to ſatiſfie you: When theſe great Hilles of yce ſhall be digged downe, and be made le<g ref="char:EOLhyphen"/>uell with the waters; when theſe hard rockes ſhall melt in<g ref="char:EOLhyphen"/>to ſoft riuers, and that a ſudden thaw ſhall ouercome this ſharpe Froſt, then is it to be feared, that the ſwift, violent and vnreſiſtable Land-currents, will beare downe Brid<g ref="char:EOLhyphen"/>ges, beate downe Buildings, ouerflow our Corne-fieldes, ouer-runne the Paſtures, drowne our Cattell, and endan<g ref="char:EOLhyphen"/>ger the liues both of man and beaſt, trauailing on their way.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>You ſay right: This Prognoſtication which yuur iudgement thus lookes into, did alwayes fall out to be too true. But what other Weather doeth your Calender promiſe</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>I will not hide within me from you, that time and obſeruation haue taught mee. And albeit it may ap<g ref="char:EOLhyphen"/>peare ſtraunge vnto you, that an old Country Penny-fa<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:184044:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:184044:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:184044:12"/> (a plaine holland ruffe, and a kerzie ſtocking) ſhould talke thus of the change of ſeaſons, and the mutabilities of the world. Yet S. know I beſeech you that my education was finer then my Ruſſet outſide, and that my parents did not only prouide to leaue me ſomthing, but tooke care (a<g ref="char:EOLhyphen"/>boue that tanſitorie bleſſing) that I ſhould taſt a little of the fruite of learning and knowledge.</p>
+               <p>It will be a pleaſing and profitable iourney to our coun<g ref="char:EOLhyphen"/>treymen though a laborious voiage for you.</p>
+               <p>
+                  <note place="margin">King Willi<g ref="char:EOLhyphen"/>am Ruphus</note> I haue read how in the raigne of king <hi>William Ruphus</hi> (in the fift yeare as I remember) that Riuers of this king<g ref="char:EOLhyphen"/>dome were ſo frozen ouer, that carts and waines laden, did without danger paſſe ouer them.</p>
+               <p>
+                  <note place="margin">King Iohn.</note> In the ſixth yeare of the raigne of King <hi>Iohn,</hi>a froſt be<g ref="char:EOLhyphen"/>gan vpon the 13. of Ianuary, and continued till the 22. of March following, the earth by meanes of this being ſo hardned, that the plow lay ſtill, and the ground could not be tilled. The wounds that this froſt gaue the common wealth were for that preſent ſcarce felt, they were not deepe, they were thought not dangerous. But in the ſommer following did they freſhly begin to bleede, for then a quarter of wheat was ſolde for a marke, which in the raigne of <hi>Henry</hi> the ſe<g ref="char:EOLhyphen"/>cond (before him) was ſolde for no more then 12. pence.</p>
+               <p>
+                  <note place="margin">king Henry</note> There was likewiſe ſo great a froſt in the 53. yeare of the raigne of <hi>Henry</hi> the third, that being at Saint An<g ref="char:EOLhyphen"/>drewes tide, it continued till Candelmas. So that men &amp; beaſts went ouer the Thames from Lambeth to Weſt<g ref="char:EOLhyphen"/>minſter, and the goodes of Merchants not being able to be tranſported by water, were caried from Sandwich and o<g ref="char:EOLhyphen"/>ther hauens, and ſo brought to London by land. But no extraordinary or memorable accident following or going before this froſt, I will paſſe ouer it, and come to that froſty ſeaſon in the tenth yeare of <hi>Edward</hi> the firſt, whoſe violent working was ſo cruell, and did build ſuch caſtles of Ile vp<g ref="char:EOLhyphen"/>on the Thames &amp; other Riuers, that fiue arches of Londo<g ref="char:cmbAbbrStroke">̄</g> bridge were borne downe, &amp; all Rocheſterbridge was caried
+<pb facs="tcp:184044:12"/> cleane away, with diuers others.</p>
+               <p>
+                  <note place="margin">K. Edw, 3.</note> In the ſeauen and thirtieth yéere of <hi>Edward</hi> the third, a Froſt began in England, about the midſt of September, and thawed not till Aprill following, ſo that it continued al<g ref="char:EOLhyphen"/>moſt eight moneths.</p>
+               <p>
+                  <note place="margin">K. Henry 4.</note> In the ninth yeere of the raigne of K. <hi>Henry</hi> the fourth, was there a Froſt that laſted fiftéene wéekes. The like happened in the fourth yeere of <hi>Edward</hi> the fourth.<note place="margin">K. Edw. 4.</note>
+               </p>
+               <p>
+                  <note place="margin">K. Henr. 8.</note> In the nynth yeere of K. <hi>Henry</hi> the eight, the Thames was frozen ouer, that men with horſe and carts paſſed vpon it: And in the very next ſuccéeding yeere, dyed multitudes of people, by a ſtrange diſeaſe, called the <hi>Sweating Sicke<g ref="char:EOLhyphen"/>neſſe.</hi>
+               </p>
+               <p>
+                  <note place="margin">Q Elizab.</note> There was one great Froſt more in England, (in our memorie,) and that was in the ſeuenth yeere of Queene <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi> which began vpon the <hi>21.</hi> of December, and held on ſo extremely, that vpon New yeeres éeue following, people in multitudes went vpon the Thames from London Bridge to Weſtminſter: Some (as you tell mee, Sir, they doe now) playing at foote-ball, others ſhooting at prickes: This Froſt began to thaw vpon the third day of Ianuary at night, and on the fifth of the ſame moneth, was no ice to be ſéene betwéene London-Bridge and Lambeth: which ſudden thaw brought forth ſudden harmes, for houſes and bridges were ouer-turned by the Land-floudes: amongſt which, <hi>Owes</hi> Bridge in Yorkeſhire was borne away: ma<g ref="char:EOLhyphen"/>ny numbers of people periſhing likewiſe by thoſe waters.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>You haue a happy memorie Father: your head I ſee is a very ſtorehouſe of antiquitie: you are of your ſelfe a whole volume of Chronicles: Time hath well beſtowed his leſſons vpon you, for you are a ready ſcholler of his, and doe repeate his ſtories by heart perfectly.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>And thus (as I ſaid before) you may perceiue, that theſe extraordinary Feauers haue alwayes other euils attending vpon them.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>You haue made it plaine vnto mee: and I pray
+<pb facs="tcp:184044:13"/> God, at whoſe commaund the Sunne ſendes forth his heat, to comfort the earth, and the windes bitter ſtormes to de<g ref="char:EOLhyphen"/>face the fruites of it, that in this laſt afflictation of waters, which are hardned againſt vs, all other miſeries may bee cloſed vp withall: and that the ſtripes of ſundry plagues and calamities which for theſe many yéeres haue béen ſeene ſticking in our fleſh, may worke in our bodies ſuch amend<g ref="char:EOLhyphen"/>ment, and in our ſoules ſuch repentance, that the rodde of the diuine Iuſticer may be held backe from ſcourging vs a<g ref="char:EOLhyphen"/>ny longer.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>I gladly and from my heart, play the Clarke, crying <hi>Amen.</hi> I haue been bolde and troubleſome to you Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>You teach me what language to ſpeake to your ſelfe in, I would neither of vs both, had euer ſpent an houre worſe.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>Indeed Time is a iewell of incomparable va<g ref="char:EOLhyphen"/>lue, yet (as vnthrifts doe by their money) we are prodigall in waſting it, and neuer feele the true ſweetneſſe of inioy<g ref="char:EOLhyphen"/>ing it, till we haue loſt all. But ſithence I haue waded thus farre into conference with you, and that it is our agrée<g ref="char:EOLhyphen"/>ment to barter away newes one with another, (as Mer<g ref="char:EOLhyphen"/>chants doe their commodities) I muſt requeſt one kindneſſe more at your handes.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>What is that, Father? I am now in your debt, and in Conference I muſt ſee you ſatiſfied.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>I heare Sir ſtrange report of a certayne Lot<g ref="char:EOLhyphen"/>tery for Plate, of a great value, here in London: Is it true?</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>It is true, that there is a Lottery, and it is ſet vp by Strangers.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>I remember, that (as I take it in the xi. yeere of Queen <hi>Elizabeth</hi>) a Lottery began here in London, in which, if my memorie faile not, were foure hundred thou<g ref="char:EOLhyphen"/>ſand lots to be drawne.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:184044:13"/>
+               <speaker>Cittiz.</speaker>
+               <p>You ſay right: ſo much ſtill lies in my remem<g ref="char:EOLhyphen"/>brance.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Mary that Lotterie was onely for money, and euery lot was ten ſhillings. It was helde at the Weſt doore of Saint <hi>Paules</hi> Church. It began vpon the eleuenth of Ianuarie, and continued day and night till the ſixt of May following, which was almoſt foure Moneths: and the com<g ref="char:EOLhyphen"/>mon burden of that ſong, when poore prizes were drawne, was <hi>Two pence halfe-pennie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>That was a prize poore inough, Ile be ſworne: Nay father, then was there another gallant Lotterie about the eight and twentie yeare of the ſame Queenes raigne, which began in the middle of Sommer, and was for mar<g ref="char:EOLhyphen"/>ueilous rich and coſtly armors, guilt and engrauen.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>That Lotterie I heard of, but neuer ſaw it, for I was then in the Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>To win thoſe armours, all the companies of the Cittie ventured generall ſummes of mony. But becauſe you deſire to heare ſome newes of this laſt Lotterie, that now tempteth people together, I will tell you ſo much of it as I certainly know for truth, referring your eare (if you would hear more) to the great voyce of the vulgar, of whom you may be ſure to haue more then willingly you will carry home.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>Oh ſir, the wilde beaſt with many heads, muſt needs haue as many tongues, and it is not poſſible thoſe tongues ſhould goe true, no more then all the clocks doe but I pray you ſpeake on.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>
+                  <note place="margin">The deſc<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tion of the Lottery</note> This Lotterie (as I ſayd before) conſiſteth all of plate: it is a goodly Goldſmiths ſhop to come into: and to behold ſo many guilt Spoones, Cups, Bowles, Baſons, Ewers, &amp;c. fairly grauen, and richly guilded, who would not be tempted to venture a ſhilling (for thats a ſtake for a lot) when for that ſhilling hee may happily draw a peece of plate worth a hundred pound, or an hundred and fortie, fiftie, or threeſcore pounds, if he can catch it, which he may doe if
+<pb facs="tcp:184044:14"/> Fortune fauour him.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>Oh ſir, that found of a hundred pound makes good muſicke in the eare, and drawes men to hearken to it. Thoſe are the ſweete baytes: but vpon what hookes, I pray you, are thoſe lickoriſh bayts hung?</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>Vpon villanous long ones: for to euerie prize there are put in 40. blanks, ſo that there are ſo many tricks to ſet a man beſide the ſaddle, and but one to leape in. There are 7600. prizes, and 42. mil. of Blanckes: a number of hard choaked Peares muſt be ſwallowed, before the delicate fruit can be taſted.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>And yet I heare that the people flie thither like Wild-geeſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>You may well ſay like Wild-geeſe: for ſome of them proue ſuch Gooſe caps by going thither, that they leaue themſelues no more feathers on their backs then a Gooſe hath when ſhe is plucked. I haue ſat there and be<g ref="char:EOLhyphen"/>helde the faces of all ſorts of people, that flocke to this faire of Siluer houſhold-ſtuffe: It is better then ten Comedies to note their entrances into the place, and their Exits: and yet in good truth I haue beene heartily ſorie, to ſee what tragicall endes haue falne vppon ſome poore houſekeepers that haue come thither. About the doores multitudes ſtill are crowding: aboue, the roome is continually filled with people. Euerie mouth is balling out for lots, and euery hand thruſt out to ſnatch them: both hands are lifted vp, the one to deliuer the Condemned ſhillings, the other to Receiue the papers of life and death. And when the papers are payed for (which are rolled vp like Wafers) load: what praying is there in euery corner, that God would (if it bee his will) ſend them good fortune. How gingerly! doe they open their Twelue-pennie commoditie! How leyſurely? with what gaping of the mouth! with what licking of the lippes (as though they felt ſweetneſſe in it before they taſte it) how the ſtanders by encourage him that hath drawne, to open bold<g ref="char:EOLhyphen"/>ly, as if it were to venture vpon the mouth of a Canon, and
+<pb facs="tcp:184044:14"/> with what ſtrange paſſions and pantings does he turne o<g ref="char:EOLhyphen"/>uer his waſt papers? But when he findes within but a pale peace of paper, Lord, how he ſweares at his owne folly, cur<g ref="char:EOLhyphen"/>ſes the Frenchmen, and cries a plague on the houſe, and wiſhes all the plate were molten, and powred downe the throtes of them that owe it: Yet when hee hath emptied his boſome of all this bitterneſſe, the verie caſting of his eye vpon a goodly faire Baſon of ſiluer, ſo ſweetens the remem<g ref="char:EOLhyphen"/>brance of his loſt money, that to it he falles againe, and ne<g ref="char:EOLhyphen"/>uer giues ouer ſo long as he can make any ſhift for the other ſhilling. And thus doe a number of poore men labour with a kind of greedines to begger themſelues.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>But amongſt all theſe Land-Rouers, haue none of them the lucke of men of warre, to winne rich prizes?</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>Yes, ſome doe: and the making of one, is the vndoing of an hundred: for the ſight of a ſtanding bowle be<g ref="char:EOLhyphen"/>ing borne openly away in triumph by ſome poore fellow, ſo ſets all their téeth on edge that are the gazers on, that ma<g ref="char:EOLhyphen"/>ny of them are almoſt madde, till they haue ſold their pew<g ref="char:EOLhyphen"/>ter, in hope to change it into a cupbbord of ſiluer plate And ſo farre doth this frenzie leade ſome (eſpecially the baſer ſort of people) that this man pawnes his cloake, that man his holliday breeches: this woman ſells her braſſe, that goſſip makes away her linnen, and all theſe ſtreames meete in the end in one riuer. Theſe doe all ſuffer ſhipwracke, and the ſea ſwallowes the ſpoyle. The one goes home crying and cur<g ref="char:EOLhyphen"/>ſing, the other ſtandes ſtill tickling with laughter: the one hugs himſelfe for his good ſucceſſe, the other is readie to hang himſelfe at his i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l fortune. Carmen ſell their horſes, and giue ouer drawing of loades, to draw lots. There came a yong wench in one day (a maid ſeruant) that had newly receiued her quarters wages, and was going to buy clothes to her backe: But this Siluer-mine ſtanding in her way, here ſhe vowed to dig, and to trie if ſhe could bee made for euer: ſhe ventured all her money, and loſt all. But when ſhe
+<pb facs="tcp:184044:15"/> ſaw it gone, ſhe ſighed &amp; ſware, the loſſe of her maidenhead ſhould neuer haue grieued her ſo much, as the loſſe of her wages.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>I beleeue her ſir:</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz:</speaker>
+               <p>Imagine how a Vintners boy hauing receiued a reckoning of his maſters gueſts, and they falling preſently to dice, if the drawer ſhould ſet his maiſters money, and cry<g ref="char:EOLhyphen"/>ing at all, ſhould looſe it al, how would that fellow look? euen ſo looked that poore wench.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>Are there (think you ſir) no deceits in this Lot<g ref="char:EOLhyphen"/>terie, to cozen and abuſe the people?</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>Truſt me father, I dare accuſe no man of any, becauſe I know of none: ſuch accions as theſe (how war<g ref="char:EOLhyphen"/>rant able ſoeuer,) &amp; ſtrengthned by the beſt authorities, who haue wiſedome to looke through and through them, if there were any iugling conceit, notwithſtanding ſtand from the ſtinges of ſlander, if any villanie be done, the people that ſwarme thither, practiſe it one againſt an other.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>As how I pray ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Cittiz.</speaker>
+               <p>
+                  <note place="margin">Knauis triks done at the Lottery</note> For I haue been told, that ſome one crafty knaue amongſt all the reſt, taking vpon him to play the good Shepheard ouer the flocke, that ſtandes about him, hath gathered mony from ſeuerall men, or women, he him<g ref="char:EOLhyphen"/>ſelf likewiſe putting in his owne, and then keeping a crow<g ref="char:EOLhyphen"/>ding to paſſe through the preſſe, he comes backe and deliuers ſo many blanckes as he receiued ſhillings, which blankes were not of the Lotterie, but cunningly made vp by him<g ref="char:EOLhyphen"/>ſelfe, and caried of purpoſe vp and downe by him in his pocket.</p>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <p>They are worthily ſerued that wilbe cheted by ſuch a doctor in the art of knauery. If any man therfore wil néeds be, as the terme is now, one of this twelue peny Guls, let him hereafter ſet his owne limetwigs, and then if he catch no birde, no bodie els ſhall laugh at him.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Amongſt many other thinges vpon the froſen
+<pb facs="tcp:184044:15"/> Thames, that will in times to follow, looke to be remem<g ref="char:EOLhyphen"/>bred, this is one: That there were two Barkers ſhops (in the faſhion of Boothes with ſignes and other properties of that trade belonging to them) fixed on the yce: to which many numbers of people reſorted, and (albeit they wanted no ſhauing) yet would they here he trimmed, becauſe an other day they might report, that they loſt their haire be<g ref="char:EOLhyphen"/>tweene the banke ſide and London. Both theſe ſhoppes werr ſtill ſo full, that the workemen thought euery day had beene Saturday: neuer had they more barbarous doinges for the time: there was both olde polling and cold polling: and albeit the foundation of their houſes ſtood altogether vpon a watry ground, yet they that were Doctors of the barbours chair, feared no danger, for it was a hard matter almoſt now for a man to find water to drowne himſelfe if he had beene ſo deſperate</p>
+               <p>Then had they other games of nineholes and Pidgeon-holes in greate numbers. And this (father) did I obſerue as worthy to be remembred, that when the watermen (who had cold doinges for a long time) had by maine labour cutte downe with axes, and ſuch like inſtruments, a lane and open paſſage betweene <hi>Queene</hi> Hyth, &amp; the further banke, ſo that boates went ſurely to and fro, yet were people in great multitudes running, walking, ſlyding, and playing at games and exerciſes, as boldly as if they had beene on the firme land (the Thames running mainely betweene them) and taking Boates at Queene Hyth, or any other Stayres, they would as fiercely leape vpon the verie vrim of the caked Ice, as if it had beene a ſtrong Wharfe, or the ground it ſelfe.</p>
+               <p>And thus much father, touching the great Froſt here about our Cittie. Vnto which, vpon my conference with ſome Merchantes my friendes here in London, and vpon view of Letters from ſeuerall factors out of other Coun<g ref="char:EOLhyphen"/>tries
+<pb facs="tcp:184044:16"/> beyond the Seas.) I adde this further report, that this Froſt hath not onely continued in this extremitie here in England, but all or the greateſt part of all the Kingdomes in Chriſtendome, haue beene pinched by the ſame: amongſt which thoſe Countries Northward (as Ruſſia, Muſcouia, &amp;c, which at theſe times of the yeare are commonly ſubiect to ſharpe, bitter and violent Froſts) were now (this Win<g ref="char:EOLhyphen"/>ter) more extreamely, and more extraordinarily afflicted, then vſually they haue beene in many yeares before. So that the calamities that haue falne vpon vs by this crueltie of the weather, are ſo much to be endured with the greater patience, and with more thankeſgiuing to God, becauſe his hand hath puniſhed neighbors and other Nations as heaui<g ref="char:EOLhyphen"/>ly (if not more ſeuerely) then he hath vs.</p>
+               <p>Amongſt all the ſerious accidents that haue hapned here vpon our Thames, I will now (father) quicken your heare<g ref="char:EOLhyphen"/>ing with one a little more merry, it was merry to the be<g ref="char:EOLhyphen"/>holders and ſtrange, but I beleeue he found no great mirth in it that was the perſon that performed it. But thus it was.</p>
+               <p>A Citizen happened to venture (with many others) vpon the Ice: but he with a couple of dogs that followed him, walked vp and downe ſo long, till he was in a maner alone from the reſt of the company. You muſt vnderſtand, that this was now towards the end of the froſt, when it either beganne or was likely to thaw: ſo that people were not ſo bold vpon the Ice nor in ſuch multitudes as they were be<g ref="char:EOLhyphen"/>fore: but this Citizen (and his two dogs,) keeping as I ſaid aloofe from others, it fortuned that the flake of Ice vpon which hee ſtood, was in a moment ſundred from the maine body of the froſen Thames, like an arme of a tree cut from the body: ſo that he ſtoode, or rather ſwomme (as hée ſtood) vpon a floating Iland: the poore man perceiuing that his ground failed vnder him, began to faint in his heart, re<g ref="char:EOLhyphen"/>penting
+<pb facs="tcp:184044:16"/> that now he was ſo ve<g ref="char:cmbAbbrStroke">̄</g>terous, or ſo fooliſh to leaue firme ground where he was ſafe, and to truſt a floore that was ſo deceitfull, was afraid to ſtir, and yet vnleſſe hee did luſtly ſtir for life, hee was ſure there was no way but one, and that was to be drowned. In this extremity, and in this battell of comfort and deſpaire, he had no meanes (albeit he was a freſh water Souldier,) but to bee conſtant in cou<g ref="char:EOLhyphen"/>rage to himſelfe, and to trie all pathes how to get from this apparent danger: from place to place therefore doth he ſoft<g ref="char:EOLunhyphen"/>ly run, his two dogs following him cloſſe and leaping vpon him: but his thoughts were more buſied how to ſaue himſelf the<g ref="char:cmbAbbrStroke">̄</g> to regard them following, he neuer hated going a haw<g ref="char:EOLhyphen"/>king with his dogs till this time: now the ſport was loath<g ref="char:EOLhyphen"/>ſome, now was he weary of it: for in all his hunting with his bound thus at his taile, hee mette one game that could make him weary: he iuſtled with other huge flakes of Ice that encountered with that whereon he ſtood, and gladly would haue leapt vpon ſome one of them, but to haue done ſo, had been to haue ſlipt out of one perill into an other: No<g ref="char:EOLhyphen"/>thing was before his eyes but water, mingled with huge cakes of Ice, on euery ſide of him was danger and death.</p>
+               <p>Innumerable multitudes of people ſtood looking on vp<g ref="char:EOLhyphen"/>on the ſhores, but none were ſo hardie as to ſet out to his re<g ref="char:EOLhyphen"/>ſcue. Being therefore thus round beſet with the horrors of ſo preſent a wracke, he fell downe on his knees, vttering ſuch colde prayers as in this feare a man could deliuer: his dogges not vnderſtanding their maiſters daunger, nor their owne, and not knowing why hee kneeled, leaping euer and anon at his head, and an his ſhoulders: but his mind being now more on his dying day then on his ſports, continued praying, till the flake of yce on which he kneeled was dri<g ref="char:EOLhyphen"/>uen to the verie Bridge, which hee perceyuing, ſtarted vp, and with a happie nimbleneſſe leaped vpon one of the Ar<g ref="char:EOLhyphen"/>ches,
+<pb facs="tcp:184044:17"/> his dogs leaping after as nimbly as the maiſter, whilſt the cake of yce paſſed away from him, and betweene the two Arches was ſheuered all in little peeces. And thus did he eſcaped.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>It was a miraculous deliuerance.</p>
+            </sp>
+            <sp>
+               <speaker>Citty.</speaker>
+               <p>Other abuſes are there daily (amongſt the wor<g ref="char:EOLhyphen"/>ſer rankes of people) put one vpon another, which being but idle, ridiculous and not worth reherſing, I willingly am glad not to reme<g ref="char:cmbAbbrStroke">̄</g>ber: but only to content your longing (good old father) haue I ſet thus much of our golden Lottery be<g ref="char:EOLhyphen"/>fore you.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>Sir you bind me more and more to you for theſe kindneſſes to me being a ſtranger, &amp; a perſon of ſo home<g ref="char:EOLhyphen"/>ly an out ſide, from a Cittizen ſo graue as your ſelfe ſeems to be, I will euer reſt abundantly thankefull.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:184044:17"/>
+            <p>
+               <hi>LONDON.</hi> Printed for Henry Goſſon, <hi>and are to be ſold at</hi> his ſhop at London-Bridge. 1608.</p>
+            <pb facs="tcp:184044:18"/>
+            <pb facs="tcp:184044:18" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
